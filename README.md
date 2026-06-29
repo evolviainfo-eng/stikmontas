@@ -21,4 +21,4 @@ node server.js   # http://localhost:3032
 - `server.js` — minimalus statinis dev serveris
 
 ## Kontaktai
-Tel. +370 650 18383 · stikmontas@gmail.com · J. Janonio g. 5, Panevėžys
+Tel. +370 650 18383 · stikmontas@gmail.com · Pušaloto g. 214, Panevėžys
